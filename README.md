@@ -36,5 +36,6 @@ USER> zpm install imageaicreator
 
 ## Testing
 1. Open http://localhost:<WebServerPort>/swagger-ui/index.html
-2. Run the method /generate passing in the body a text with instructions to generate the image (use enghish)
-3. Download the png file on the link Download file
+2. On swagger explore put http://localhost:<WebServerPort>/image-ai-creator/_spec
+3. Run the method /generate passing in the body a text with instructions to generate the image (use enghish)
+4. Download the png file on the link Download file
