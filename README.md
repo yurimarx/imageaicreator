@@ -10,9 +10,6 @@ This is a tool to generate images from a text sentence using AI
 The Image AI Creator allows you:
 * Set a text and get a PNG image
 
-## Prerequisites
-* Create your key on https://platform.imagine.art/
-
 ## Installation with Docker
 
 Clone/git pull the repo into any local directory
@@ -35,12 +32,6 @@ $ docker-compose up -d
 
 ```
 USER> zpm install imageaicreator
-```
-
-Set your key:
-
-```
-
 ```
 
 ## Testing
