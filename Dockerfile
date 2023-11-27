@@ -10,7 +10,7 @@ FROM $IMAGE as builder
 WORKDIR /home/irisowner/dev
 
 ARG TESTS=0
-ARG MODULE="dc-sample"
+ARG MODULE="imageaicreator"
 ARG NAMESPACE="IRISAPP"
 
 ## Embedded Python environment
