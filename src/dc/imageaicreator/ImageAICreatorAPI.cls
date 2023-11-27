@@ -1,4 +1,4 @@
-Class dc.irisparquet.IrisParquetAPI Extends %CSP.REST
+Class dc.imageaicreator.ImageAICreatorAPI Extends %CSP.REST
 {
 
 Parameter CHARSET = "utf-8";
